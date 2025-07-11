@@ -5,7 +5,7 @@ Plugin URI: https://github.com/Monomiir/numeric_url
 Description: Generate YOURLS short URLs with numbers only and customizable length.
 Version: 1.1
 Author: Monomiir
-Author URI: https://7100.org
+Author URI: https://encrypt.zip
 */
 
 // Hook into the keyword generation process
